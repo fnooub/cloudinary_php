@@ -1,8 +1,8 @@
 <?php
 \Cloudinary::config(array(
-    'cloud_name' => 'my_cloud_name',
-    'api_key' => '123456789012345',
-    'api_secret' => 'abcdefghijklmnopqrstuvwxyz1'
+    'cloud_name' => 'fivegins',
+    'api_key' => '221242981627757',
+    'api_secret' => 'iYS6KdAKmBpQDDY-IoczW0kQ0sA'
 ));
 
 R::setup('mysql:host=my_database.mydomain.com;dbname=photo_album', 'username', 'password');
